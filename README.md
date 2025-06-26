@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-end`**
 
-Me chamo Mycael Moreira, tenho 21 anos e sou natural de Sumaré. Atualmente, estou cursando Engenharia de Software na Uninter. 
+Me chamo Mycael Moreira, tenho 21 anos e sou natural de Sumaré. Atualmente, estou cursando Tecnologia da Informação na Univesp. 
 Sou apaixonado por tecnologia e análise de dados, pretendo compartilhar meus conhecimentos através do meu canal no YouTube "[moreiracode](https://www.youtube.com/@moreiracode)", e criar projetos web.
 
 ### 🤖 Linguagens e Tecnologias
